@@ -11,7 +11,7 @@
 [<img align="left" alt="Samwit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
+-------
 
 [website]: https://samwitadhikary.github.io/my-profile 
 [twitter]: https://twitter.com/SamwitAdhikary
